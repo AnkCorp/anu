@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "anu_core",
+    "anu_cli",
+    "anu_gui",
+]
